@@ -1,0 +1,53 @@
+.title{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 100px;
+  color: black;
+  position: absolute;
+  left: 20%;
+  top: 0px;
+  margin: 0px;
+
+}
+
+#new{
+  font-size: 200px;
+  color: #d10000;
+}
+
+.exhibitions{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 35%;
+  color: black;
+}
+
+.events{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 40%;
+}
+
+.about{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 45%;
+}
+
+#image1{
+  position: fixed;
+  left: 10%;
+  top: 30%;
+  width: 30px;
+  height: 30px;
+
+}
+
+.contact{
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 20px;
+  position: absolute;
+  top: 170%;
+}
